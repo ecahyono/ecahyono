@@ -85,7 +85,7 @@ Currently focused on growing expertise in **QA Automation** and **Performance Te
 | Repository | Description | Stack |
 |------------|-------------|-------|
 | [selenium-web-automation](https://github.com/ecahyono/selenium-web-automation) | UI automation with Page Object Model | Python, Selenium |
-| [cypress-e2e-testing](https://github.com/ekacahyono/cypress-e2e-testing) | End-to-end testing + CI/CD integration | JavaScript, Cypress |
+| [cypress-e2e-testing](https://github.com/ecahyono/cypress-e2e-testing) | End-to-end testing + CI/CD integration | JavaScript, Cypress |
 | [api-testing-postman](https://github.com/ekacahyono/api-testing-postman) | REST API test collection + Newman runner | Postman, Newman |
 | [jmeter-performance](https://github.com/ekacahyono/jmeter-performance) | Load & performance testing scripts | JMeter, Python |
 
