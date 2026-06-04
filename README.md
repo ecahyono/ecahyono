@@ -88,6 +88,7 @@ Currently focused on growing expertise in **QA Automation** and **Performance Te
 | [bdd_demo](https://github.com/ecahyono/bdd_demo) | UI automation End User POV | Python, Cucumber |
 | [cypress-e2e-testing](https://github.com/ecahyono/cypress-e2e-testing) | End-to-end testing + CI/CD integration | JavaScript, Cypress |
 | [playwright-ui-automation](https://github.com/ecahyono/playwright-ui-automation) | Cross-browser UI automation with modern testing framework and tracing | Python, Playwright |
+| [locust-performance-testing](https://github.com/ecahyono/locust-performance-testing) | CAPI & web performance testing with concurrent users, response time analysis, and throughput monitoring | Python, Locust |
 | [api-testing-postman](https://github.com/ekacahyono/api-testing-postman) | REST API test collection + Newman runner | Postman, Newman |
 | [jmeter-performance](https://github.com/ekacahyono/jmeter-performance) | Load & performance testing scripts | JMeter, Python |
 
