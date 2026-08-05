@@ -51,7 +51,7 @@ Currently focused on growing expertise in **QA Automation** and **Performance Te
 | Area | Details |
 |------|---------|
 | 🔍 **Manual Testing** | Functional, non-functional & regression testing |
-| ⚙️ **Automation Testing** | Selenium WebDriver + Python, Cypress |
+| ⚙️ **Automation Testing** | Selenium WebDriver + Python, Cypress, playwright |
 | 🔗 **API Testing** | REST API validation with Postman & Newman |
 | 📈 **Performance Testing** | Load & stress testing with JMeter & Locust |
 | 🐛 **Bug Reporting** | Bug documentation, tracking & verification |
