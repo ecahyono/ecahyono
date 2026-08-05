@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eko Cahyono Putro 👋</h1>
 
 <p align="center">
-  <b>Quality Assurance Automation Engineer</b><br>
+  <b>Quality Assurance Engineer</b><br>
   📍 West Java, Indonesia &nbsp;
 </p>
 
